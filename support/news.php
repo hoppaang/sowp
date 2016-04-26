@@ -12,6 +12,7 @@
 	<!-- subcontent begin -->
 	<div class="subcontent">
 		news
+		<iframe frameborder=0 width=100% height=1000 scrolling=no src="../assets/board/bbs/board.php?bo_table=news" />
 	</div>
 	<!-- subcontent end -->
 </div>

@@ -21,13 +21,13 @@
 					</div>
 					<!-- End Google Map -->
 
-					<form action="assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
+					<form action="contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
 						<fieldset class="no-padding">
 							<label>Name <span class="color-red">*</span></label>
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<input type="text" name="name" id="name" class="form-control">
+										<input type="text" name="name" id="NAME" class="form-control">
 									</div>
 								</div>
 							</div>
@@ -36,7 +36,7 @@
 							<div class="row sky-space-20">
 								<div class="col-md-7 col-md-offset-0">
 									<div>
-										<input type="text" name="email" id="email" class="form-control">
+										<input type="text" name="email" id="EMAIL" class="form-control">
 									</div>
 								</div>
 							</div>
@@ -45,7 +45,7 @@
 							<div class="row sky-space-20">
 								<div class="col-md-11 col-md-offset-0">
 									<div>
-										<textarea rows="8" name="message" id="message" class="form-control"></textarea>
+										<textarea rows="8" name="message" id="CONTENT" class="form-control"></textarea>
 									</div>
 								</div>
 							</div>
