@@ -38,21 +38,23 @@
 		<!-- Owl Clients v1 -->
 			<div class="headline"><h2>협력기관/업체</h2></div>
 			<div class="owl-clients-v1">
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner1.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner2.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner3.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner4.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner5.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner6.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner7.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner8.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner9.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner10.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner11.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner12.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner13.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner14.png" alt=""></div>
-				<div class="item"><img src="<?=$assetsurl?>images/img-partner15.png" alt=""></div>
+				<a href="<?=$baseurl?>company/partner.php">
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner1.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner2.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner3.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner4.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner5.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner6.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner7.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner8.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner9.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner10.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner11.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner12.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner13.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner14.png" alt=""></div>
+					<div class="item"><img src="<?=$assetsurl?>images/img-partner15.png" alt=""></div>
+				</a>
 			</div>
 			<!-- End Owl Clients v1 -->
 		</div>
