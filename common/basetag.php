@@ -63,7 +63,7 @@
 						<div class="container">
 							<ul class="nav navbar-nav">
 								<li>
-									<a href="<?=$baseurl?>index.php" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+									<a href="<?=$baseurl?>">Home</a>
 								</li>
 
 								<li class="dropdown">
