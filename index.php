@@ -36,9 +36,8 @@
 
 		<div class="container content-sm">
 		<!-- Owl Clients v1 -->
-			<div class="headline"><h2>협력기관/업체</h2></div>
+			<div class="headline"><!-- <a href="<?=$baseurl?>company/partner.php"> --><h2>협력기관/업체</h2></a></div>
 			<div class="owl-clients-v1">
-				<!-- <a href="<?=$baseurl?>company/partner.php"> -->
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner1.png" alt=""></div>
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner2.png" alt=""></div>
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner3.png" alt=""></div>
@@ -54,7 +53,6 @@
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner13.png" alt=""></div>
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner14.png" alt=""></div>
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner15.png" alt=""></div>
-				<!-- </a> -->
 			</div>
 			<!-- End Owl Clients v1 -->
 		</div>
