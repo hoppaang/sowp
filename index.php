@@ -36,7 +36,7 @@
 
 		<div class="container content-sm">
 		<!-- Owl Clients v1 -->
-			<div class="headline"><!-- <a href="<?=$baseurl?>company/partner.php"> --><h2>협력기관/업체</h2></a></div>
+			<div class="headline"><a href="<?=$baseurl?>company/partner.php"><h2>협력기관/업체</h2></a></div>
 			<div class="owl-clients-v1">
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner1.png" alt=""></div>
 					<div class="item"><img src="<?=$assetsurl?>images/img-partner2.png" alt=""></div>
