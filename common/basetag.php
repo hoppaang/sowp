@@ -28,7 +28,7 @@
 	<link rel="stylesheet" href="<?=$assetsurl?>plugins/owl-carousel/owl-carousel/owl.carousel.css">
 	<link rel="stylesheet" href="<?=$assetsurl?>plugins/sky-forms-pro/skyforms/css/sky-forms.css">
 	<link rel="stylesheet" href="<?=$assetsurl?>plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
-	
+
 	<!-- CSS Page Style -->
 	<link rel="stylesheet" href="<?=$assetsurl?>css/pages/page_contact.css">
 
@@ -69,7 +69,7 @@
 								<li class="dropdown">
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">회사소개</a>
 									<ul class="dropdown-menu">
-										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/summary.php">회사개요</a></li>
+										<li class="dropdown-submenu"><a href="http://sowp.co.kr/company/summary.php">회사개요</a></li>
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/ceo.php">대표인사말</a></li>
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/history.php">연혁</a></li>
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/org.php">조직도</a></li>
