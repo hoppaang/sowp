@@ -17,7 +17,7 @@
 					<!-- Google Map -->
 					<!-- <div id="map" class="map map-box map-box-space margin-bottom-40"></div> -->
 					<div class="map map-box margin-bottom-40">
-						<iframe src="https://www.google.co.kr/maps/place/558+Daehak-ro,+Gunsan,+Jeollabuk-do/@35.9460538,126.6733896,15z/data=!4m5!3m4!1s0x3570597634c10ab5:0x90c974df65c9417a!8m2!3d35.9460546!4d126.6821658?hl=en" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12920.149804396666!2d126.67338958420723!3d35.946053780572946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3570597634c10ab5%3A0x90c974df65c9417a!2s558+Daehak-ro%2C+Gunsan%2C+Jeollabuk-do!5e0!3m2!1sen!2skr!4v1471499492283" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 					<!-- End Google Map -->
 
@@ -64,10 +64,10 @@
 					<!-- Contacts -->
 					<div class="headline"><h2>Contacts</h2></div>
 					<ul class="list-unstyled who margin-bottom-30">
-						<li><a href="#">전북 군산시 계정면 흑석길 20-6 (우:54175)</a></li>
+						<li><a href="#">전라북도 군산시 대학로 558, 5층 509호 (우:54150)</a></li>
 						<li><a href="#"><i class="fa fa-envelope"></i>info@sowp.com</a></li>
 						<li><a href="#"><i class="fa fa-phone"></i>063.461.5541</a></li>
-						<li><a href="#"><i class="fa fa-globe"></i>http://www.example.com</a></li>
+						<li><a href="http://www.sowp.co.kr/" target="_blank"><i class="fa fa-globe"></i>www.sowp.co.kr</a></li>
 					</ul>
 
 					<!-- Business Hours -->
