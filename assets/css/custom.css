@@ -40,6 +40,7 @@ a,a:hover{text-decoration:none}
 .bizsummary div.biz2:before{background-position:50% -100px}
 .bizsummary div.biz3:before{background-position:50% -200px}
 .bizsummary div.biz4:before{background-position:50% -300px}
+.ceo{{background:url(../images/bg-ceo.png) no-repeat;}
 .partnet-item{margin-bottom:10px}
 .partnet-item img{width:160px;float:left;border:1px solid rgba(0,0,0,.15);margin:5px 7px 20px 0}
 .partnet-item label{margin-bottom:0;font-size:14px;color:#585858}
