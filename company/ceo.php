@@ -22,6 +22,17 @@
 		<ul>
 			<li><span>1975</span>독일 아휀공과대학교 선박구조연구소 연구원</li>
 			<li><span>1980</span>독일 아휀공과대학교 구조진동연구소 연구원</li>
+			<li><span>1993</span>인하대학교 선박해양공학과 교수</li>
+			<li><span>1996</span>에너지관리공단 풍력기술연구회 회장</li>
+			<li><span>1998</span>대안에너지포럼 회장</li>
+			<li><span>2000</span>에너지대안센터 대표</li>
+			<li><span>2003</span>대한전기협회 풍력발전위원회 위원장</li>
+			<li><span>2006</span>한국풍력에너지학회 회장</li>
+			<li><span>2010 ~ 2015</span>목포대학교 LINC사업단 석좌교수</li>
+			<li><span>2009 ~ </span>現 WWEA(세계풍력에너지협회) 부회장</li>
+			<li><span>2010 ~</span>現 한국풍력산업협회 감사</li>
+			<li><span>2014 ~</span>現 한국풍력산업협회 기술자문위원</li>
+			<li><span>2015 ~</span>現 새만금해상풍력(주) 대표이사</li>
 		</ul>
 	</div>
 	<!-- subcontent end -->
