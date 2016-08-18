@@ -1,6 +1,6 @@
 <?php
-	$menucode = 'online'; 
-	$submenucode = 'online'; 
+	$menucode = 'online';
+	$submenucode = 'online';
 	require('../common/config.php') ;
 	virtual('../common/basetag.php');
 ?>
@@ -8,7 +8,7 @@
 
 <div class="container content-sm">
 	<!-- submenu incloud --><?php virtual('../common/submenu.php');?>
-	
+
 	<!-- subcontent begin -->
 	<!--=== Content Part ===-->
 	<div class="container">
@@ -17,7 +17,7 @@
 					<!-- Google Map -->
 					<!-- <div id="map" class="map map-box map-box-space margin-bottom-40"></div> -->
 					<div class="map map-box margin-bottom-40">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12919.881854364226!2d126.76235588345726!3d35.947692480566914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35705b59e0179c83%3A0x6e11d71919a9fb0!2s20-6+Heukseok-gil%2C+Gaejeong-myeon%2C+Gunsan%2C+Jeollabuk-do!5e0!3m2!1sen!2skr!4v1459958380167" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe src="https://www.google.co.kr/maps/place/558+Daehak-ro,+Gunsan,+Jeollabuk-do/@35.9460839,126.673022,14.98z/data=!4m5!3m4!1s0x3570597634c10ab5:0x90c974df65c9417a!8m2!3d35.9460546!4d126.6821658?hl=en" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 					<!-- End Google Map -->
 
@@ -79,7 +79,7 @@
 					</ul>
 
 					<!-- Why we are? -->
-					<!-- 
+					<!--
 <div class="headline"><h2>Why we are?</h2></div>
 					<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
 					<ul class="list-unstyled">
@@ -90,9 +90,9 @@
  -->
 				</div><!--/col-md-3-->
 		</div><!--/row-->
-	</div>	
+	</div>
 	<!-- subcontent end -->
-	
+
 </div>
 
 
