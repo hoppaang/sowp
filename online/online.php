@@ -17,7 +17,7 @@
 					<!-- Google Map -->
 					<!-- <div id="map" class="map map-box map-box-space margin-bottom-40"></div> -->
 					<div class="map map-box margin-bottom-40">
-						<iframe src="https://www.google.co.kr/maps/place/558+Daehak-ro,+Gunsan,+Jeollabuk-do/@35.9460839,126.673022,14.98z/data=!4m5!3m4!1s0x3570597634c10ab5:0x90c974df65c9417a!8m2!3d35.9460546!4d126.6821658?hl=en" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe src="https://www.google.co.kr/maps/place/558+Daehak-ro,+Gunsan,+Jeollabuk-do/@35.9460538,126.6733896,15z/data=!4m5!3m4!1s0x3570597634c10ab5:0x90c974df65c9417a!8m2!3d35.9460546!4d126.6821658?hl=en" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 					<!-- End Google Map -->
 
