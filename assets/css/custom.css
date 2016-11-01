@@ -8,6 +8,7 @@ a,a:hover{text-decoration:none}
 .footer{padding:10px 0;text-align:center;font-size:11px;color:#585858;}
 
 /* layout style */
+.navbar-brand img{float:left}
 .colorbar{background:url(../images/bg-colorbar.png) 50% 0 no-repeat;height:90px}
 .colorbar div{margin:auto;padding:20px 0 0 20px;color:#fff}
 .colorbar h1{font-size:23px;color:#fff;line-height:20px}
@@ -71,8 +72,8 @@ a,a:hover{text-decoration:none}
 100% {transform-origin: center center;transform: rotate(360deg); }
 }
 #logo-wing{
--webkit-animation:logo-rotate 5s infinite;
--moz-animation   :logo-rotate 5s infinite;
--o-animation        :logo-rotate 5s infinite;
-animation            :logo-rotate 5s infinite;
+-webkit-animation:logo-rotate 3s infinite;
+-moz-animation   :logo-rotate 3s infinite;
+-o-animation        :logo-rotate 3s infinite;
+animation            :logo-rotate 3s infinite;
 }
