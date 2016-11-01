@@ -40,10 +40,10 @@
 	<link rel="stylesheet" href="<?=$assetsurl?>css/custom.css">
 </head>
 
-<body class="header-fixed <?=$menucode?>">
+<body class="<?=$menucode?>">
 	<div class="wrapper">
 		<!--=== Header v3 ===-->
-		<div class="header-v3 header-sticky">
+		<div class="header-v3">
 			<!-- Navbar -->
 			<div class="navbar navbar-default mega-menu" role="navigation">
 				<div class="container">
@@ -54,6 +54,7 @@
 							<span class="fa fa-bars"></span>
 						</button>
 						<a class="navbar-brand" href="<?=$baseurl?>index.php">
+							<img id="logo-wing" src="<?=$imageurl?>logo-wing.png" alt="Logo">
 							<img id="logo-header" src="<?=$imageurl?>logo.png" alt="Logo">
 						</a>
 					</div>
