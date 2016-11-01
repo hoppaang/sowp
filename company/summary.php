@@ -1,6 +1,6 @@
 <?php
-	$menucode = 'company'; 
-	$submenucode = 'summary'; 
+	$menucode = 'company';
+	$submenucode = 'summary';
 	require('../common/config.php') ;
 	virtual('../common/basetag.php');
 ?>
@@ -8,10 +8,9 @@
 
 <div class="container content-sm">
 	<!-- submenu incloud --><?php virtual('../common/submenu.php');?>
-	
+
 	<!-- subcontent begin -->
 	<div class="subcontent">
-		<img src="<?=$imageurl?>company-img1.png"/>
 		<p class="margin-t10 padding-all5">정부의 저탄소 녹색성장 정책에 부응하여 풍력산업 관련 사업체의 상호 유대강화와 협력, 정보교류 및 문제점 도출 등을 통하여 풍력 산업의 발전을 도모하고 풍력에너지의 적극적인 개발로
 국산 에너지의 자립도 증진 및 관련 제조 산업의 육성과 환경보전 등 정부의 신재생에너지 확보, 탄소 배출 저감정책의 실현, 수출산업으로 육성 및 고용 증대로 국민경제 발전에 기여하기
 위한 목적으로 설립</p>
