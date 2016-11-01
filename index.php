@@ -28,12 +28,6 @@
 		</div><!--/slider-->
 		<!--=== End Slider ===-->
 
-		<!-- news begin -->
-		<div class="container content-sm">
-			news
-		</div>
-		<!-- news end -->
-
 		<div class="container content-sm">
 		<!-- Owl Clients v1 -->
 			<div class="headline"><a href="<?=$baseurl?>company/partner.php"><h2>협력기관/업체</h2></a></div>

@@ -68,7 +68,7 @@
 								</li>
 
 								<li class="dropdown">
-									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">회사소개</a>
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Business</a>
 									<ul class="dropdown-menu">
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/summary.php">회사개요</a></li>
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/ceo.php">대표인사말</a></li>
@@ -79,7 +79,7 @@
 								</li>
 
 								<li class="dropdown">
-									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">사업소개</a>
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Project</a>
 									<ul class="dropdown-menu">
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>business/biz1.php">새해풍사업</a></li>
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>business/biz2.php">풍력발전개요</a></li>
@@ -88,7 +88,7 @@
 								</li>
 
 								<li class="dropdown">
-									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">고객지원</a>
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Support</a>
 									<ul class="dropdown-menu">
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>support/news.php">뉴스&자료실</a></li>
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>support/location.php">오시는길</a></li>
@@ -96,7 +96,7 @@
 								</li>
 
 								<li class="dropdown">
-									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">온라인문의</a>
+									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Q&A</a>
 									<ul class="dropdown-menu">
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>online/online.php">온라인문의</a></li>
 									</ul>
