@@ -8,7 +8,8 @@ a,a:hover{text-decoration:none}
 .footer{padding:10px 0;text-align:center;font-size:11px;color:#585858;}
 
 /* layout style */
-.navbar-brand img{float:left}
+.navbar-brand img{float:left;padding:0}
+.navbar-brand #logo-header{position:relative;top:9px;left:5px}
 .colorbar{background:url(../images/bg-colorbar.png) 50% 0 no-repeat;height:90px}
 .colorbar div{margin:auto;padding:20px 0 0 20px;color:#fff}
 .colorbar h1{font-size:23px;color:#fff;line-height:20px}
