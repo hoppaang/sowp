@@ -13,6 +13,11 @@
 	<div class="subcontent row">
 		<div class="col-md-4">
 			<div class="headline"><a href="<?=$baseurl?>company/partner.php"><h2>참여기업</h2></a></div>
+			<div class="partnet-item">
+				<img src="<?=$imageurl?>img-partner1.png"/>
+				<p>1588-3322</p>
+				<a href="http://www.kdbdw.com" target="_blank">www.kdbdw.com</a>
+			</div>
 		</div>
 		<div class="col-md-4">
 			<div class="headline"><a href="<?=$baseurl?>company/partner.php"><h2>협력기관</h2></a></div>
