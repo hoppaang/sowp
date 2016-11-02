@@ -26,7 +26,7 @@
 			<div class="partnet-item">
 				<img src="<?=$imageurl?>img-partner4.png"/>
 				<p><i class="fa fa-phone"></i> 063.467.4836</p>
-				<a href="#" target="_blank">#</a>
+				<a href="http://www.i-smde.co.kr/" target="_blank">www.i-smde.co.kr</a>
 			</div>
 			<div class="partnet-item">
 				<img src="<?=$imageurl?>img-partner6.png"/>
@@ -63,8 +63,8 @@
 			</div>
 			<div class="partnet-item">
 				<img src="<?=$imageurl?>img-partner9.png"/>
-				<p><i class="fa fa-phone"></i> </p>
-				<!-- <a href="" target="_blank"></a> -->
+				<p><i class="fa fa-phone"></i> 063.466.8207</p>
+				<a href="http://www.ssmla.or.kr/" target="_blank">www.ssmla.or.kr</a>
 			</div>
 		</div>
 		<div class="col-md-4">
