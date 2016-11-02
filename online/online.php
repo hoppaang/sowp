@@ -57,9 +57,9 @@
 					<!-- Contacts -->
 					<div class="headline"><h2>Contacts</h2></div>
 					<ul class="list-unstyled who margin-bottom-30">
-						<li><a href="#">전라북도 군산시 대학로 558, 5층 509호 (우:54150)</a></li>
+						<li><a href="#">전라북도 군산시 대학로 558, 5층 509호(미룡동,산학협력단)</a></li>
 						<li><a href="#"><i class="fa fa-envelope"></i>info@sowp.com</a></li>
-						<li><a href="#"><i class="fa fa-phone"></i>063.461.5541</a></li>
+						<li><a href="#"><i class="fa fa-phone"></i>063.461.5540</a></li>
 						<li><a href="http://www.sowp.co.kr/" target="_blank"><i class="fa fa-globe"></i>www.sowp.co.kr</a></li>
 					</ul>
 
