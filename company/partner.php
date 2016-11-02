@@ -18,6 +18,26 @@
 				<p><i class="fa fa-phone"></i> 1588-3322</p>
 				<a href="http://www.kdbdw.com" target="_blank">www.kdbdw.com</a>
 			</div>
+			<div class="partnet-item">
+				<img src="<?=$imageurl?>img-partner2.png"/>
+				<p><i class="fa fa-phone"></i> 061.345.0114</p>
+				<a href="http://www.kps.co.kr/" target="_blank">www.kps.co.kr</a>
+			</div>
+			<div class="partnet-item">
+				<img src="<?=$imageurl?>img-partner4.png"/>
+				<p>063.467.4836</p>
+				<a href="#" target="_blank">#</a>
+			</div>
+			<div class="partnet-item">
+				<img src="<?=$imageurl?>img-partner6.png"/>
+				<p>031.704.1700 </p>
+				<a href="http://www.hanildevelop.co.kr" target="_blank">www.hanildevelop.co.kr</a>
+			</div>
+			<div class="partnet-item">
+				<img src="<?=$imageurl?>img-partner16.png"/>
+				<p>1.817.281.0040 (U.S.A)</p>
+				<a href="http://orangeenergycorp.com/" target="_blank">orangeenergycorp.com</a>
+			</div>
 		</div>
 		<div class="col-md-4">
 			<div class="headline"><a href="<?=$baseurl?>company/partner.php"><h2>협력기관</h2></a></div>

@@ -49,8 +49,8 @@ a,a:hover{text-decoration:none}
 .ceo li{border-bottom:1px solid #cfcfcf}
 .ceo li span{display:inline-block;width:90px;font-size:13px;font-weight:bold;text-align:left}
 .company .col-md-4{padding-left:25px;padding-right:20px}
-.partnet-item{margin-bottom:10px}
-.partnet-item img{width:80%;border:1px solid rgba(0,0,0,.15);margin:5px 7px 10px 0;padding:5px 10px}
+.partnet-item{margin-bottom:25px}
+.partnet-item img{width:80%;border:1px solid rgba(0,0,0,.15);margin:5px 7px 5px 0;padding:5px 10px}
 .partnet-item p{margin:0;font-size:13px}
 .partnet-item a{background:url(../images/icon-earth.png) 0 1px no-repeat;padding-left:18px;color:#1aaaaa;font-size:11px}
 
