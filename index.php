@@ -47,7 +47,7 @@
 <body class="<?=$menucode?>">
 	<div class="wrapper">
 		<!--=== Header v3 ===-->
-		<div class="header-v3">
+		<div class="header-v3" style="border-bottom:none !important">
 			<!-- Navbar -->
 			<div class="navbar navbar-default mega-menu" role="navigation">
 				<div class="container">
