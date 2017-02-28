@@ -68,7 +68,7 @@
 		</div>
 		<!--=== End Header v3 ===-->
 
-		<img class="img-responsive" src="assets/images/oops.png">
+		<img class="oopsImg" src="assets/images/oops.png">
 
 	<!---footer include-->
 	<?php virtual('common/footer.php');?>
