@@ -1,55 +1,74 @@
 <?php
 	$menucode = 'main';
 	require('common/config.php') ;
-	virtual('common/basetag.php');
 ?>
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="ko" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="ko" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="ko"> <!--<![endif]-->
+<head>
+	<title>새만금해상풍력</title>
 
-		<!--=== Slider ===-->
-		<div class="slider-inner">
-			<div id="da-slider" class="da-slider">
-				<div class="da-slide">
-					<h2><i>전세계가 주목하는 신생에너지 해상풍력</i></h2>
-					<p><i>새만금해상풍력주식회사가</i> <br /> <i>대한민국의 해상풍력을 이끌어갑니다.</i></p>
-					<div class="da-img"><!-- <img class="img-responsive" src="assets/plugins/parallax-slider/img/1.png" alt=""> --></div>
-				</div>
-				<div class="da-slide">
-					<h2><i>아시아의 허브 & 미래의 중심, 새만금!</i></h2>
-					<p><i>새만금해상풍력주식회사가</i> <br /> <i>새만금의 신생에너지를 담당하겠습니다.</i></p>
-					<div class="da-img">
-						<iframe width="534" height="300" src="https://www.youtube.com/embed/tEI8CZr3JZk" frameborder="0" allowfullscreen></iframe>
-						<!-- <iframe width="533" height="300" src="https://www.youtube.com/embed/1sUyescRMuw" frameborder="0" allowfullscreen></iframe> -->
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="<?=$baseurl?>favicon.ico">
+
+	<!-- CSS Global Compulsory -->
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>css/style.css">
+
+	<!-- CSS Header and Footer -->
+	<link rel="stylesheet" href="<?=$assetsurl?>css/headers/header-v3.css">
+
+	<!-- CSS Implementing Plugins -->
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/animate.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/parallax-slider/css/parallax-slider.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/owl-carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+	<link rel="stylesheet" href="<?=$assetsurl?>plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
+
+	<!-- CSS Page Style -->
+	<link rel="stylesheet" href="<?=$assetsurl?>css/pages/page_contact.css">
+
+	<!-- CSS Theme -->
+	<link rel="stylesheet" href="<?=$assetsurl?>css/theme-colors/default.css" id="style_color">
+	<link rel="stylesheet" href="<?=$assetsurl?>css/theme-skins/dark.css">
+
+	<!-- CSS Customization -->
+	<link rel="stylesheet" href="<?=$assetsurl?>css/custom.css">
+</head>
+
+<body class="<?=$menucode?>">
+	<div class="wrapper">
+		<!--=== Header v3 ===-->
+		<div class="header-v3">
+			<!-- Navbar -->
+			<div class="navbar navbar-default mega-menu" role="navigation">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="fa fa-bars"></span>
+						</button>
+						<a class="navbar-brand" href="<?=$baseurl?>index.php">
+							<img id="logo-wing" src="<?=$imageurl?>logo-wing.png" alt="Logo">
+							<img id="logo-header" src="<?=$imageurl?>logo.png" alt="Logo">
+						</a>
 					</div>
 				</div>
-				<div class="da-arrows">
-					<span class="da-arrows-prev"></span>
-					<span class="da-arrows-next"></span>
-				</div>
 			</div>
-		</div><!--/slider-->
-		<!--=== End Slider ===-->
-
-		<div class="container content-sm">
-		<!-- Owl Clients v1 -->
-			<div class="headline"><a href="<?=$baseurl?>company/partner.php"><h2>협력기관/업체</h2></a></div>
-			<div class="owl-clients-v1">
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner1.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner2.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner4.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner6.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner16.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner15.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner13.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner8.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner14.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner9.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner10.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner17.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner12.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner11.png" alt=""></div>
-					<div class="item"><img src="<?=$assetsurl?>images/img-partner18.png" alt=""></div>
-			</div>
-			<!-- End Owl Clients v1 -->
+			<!-- End Navbar -->
 		</div>
+		<!--=== End Header v3 ===-->
+
+		<img class="img-responsive" src="assets/images/oops.png">
 
 	<!---footer include-->
 	<?php virtual('common/footer.php');?>
